@@ -20,4 +20,4 @@ key insights:
 Conclusion:
 The Superstore Sales Dashboard provides clear insights into sales growth, regional performance, customer segments, and product categories. The 15-day forecast supports future planning, helping identify opportunities and challenges. This project highlights the value of data-driven decision-making.
 
-Example: Dashboard Preview(https://github.com/Gangadhar2002/Super-store-sales-analysis-and-forecast/blob/main/Dashboard.png)
+Example: Dashboard Preview(https://github.com/Gangadhar2002/Super-store-sales-analysis-and-forecast/blob/main/Super%20store%20sales%20dashboard.pbix)
